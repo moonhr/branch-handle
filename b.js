@@ -1,1 +1,1 @@
-const b = "b이다";ㄴ
+const b = "b이다";
